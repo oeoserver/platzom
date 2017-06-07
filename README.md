@@ -32,3 +32,4 @@ console.log(platzom("sometemos"));
 
 ## Licencia
 [MIT](https://opensource.org/licenses/MIT)
+"# platzom" 
